@@ -1,2 +1,4 @@
 Dependency Injection Vs Dependency Inversion Vs Inversion of Control, Let’s set the Record Straight
  - https://medium.com/ssense-tech/dependency-injection-vs-dependency-inversion-vs-inversion-of-control-lets-set-the-record-straight-5dc818dc32d1
+
+Why is @Autowired annotation not recommended ? - https://betulsahinn.medium.com/why-is-autowired-annotation-not-recommended-4939c46da1f8
